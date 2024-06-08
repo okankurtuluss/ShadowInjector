@@ -15,5 +15,11 @@ Add the generated code to the "add_shell_code_here" section in the script.
 To run the script, open a PowerShell window and execute the following command:
 
 .\ShadowInjector.ps1
+![](https://github.com/okankurtuluss/ShadowInjector/blob/okankurtuluss/main/screenshots/Run%20Script.png)
+
+![](https://github.com/okankurtuluss/ShadowInjector/blob/okankurtuluss/main/screenshots/Listening.png)
+
+## Virustotal Result
+![](https://github.com/okankurtuluss/ShadowInjector/blob/okankurtuluss/main/screenshots/virustotal.png)
 
 
