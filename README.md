@@ -18,11 +18,11 @@ Add the base64 encoded payload to the "add_shell_code_here" section of the scrip
 To run the script, open a PowerShell window and execute the following command:
 
 .\ShadowInjector.ps1
-![](https://github.com/okankurtuluss/ShadowInjector/blob/okankurtuluss/main/screenshots/virustotal%20result.png)
+![](https://github.com/okankurtuluss/ShadowInjector/blob/okankurtuluss/main/screenshots/Run%20Script.png)
 
 ![](https://github.com/okankurtuluss/ShadowInjector/blob/okankurtuluss/main/screenshots/Listening.png)
 
 ## Virustotal Result
-![](https://github.com/okankurtuluss/ShadowInjector/blob/okankurtuluss/main/screenshots/virustotal.png)
+![](https://github.com/okankurtuluss/ShadowInjector/blob/okankurtuluss/main/screenshots/virustotal%20result.png)
 
 
